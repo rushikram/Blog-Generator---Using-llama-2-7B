@@ -44,16 +44,16 @@ The blog is then displayed in the app.
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/b616819cd4777514e3a2d9b8be69824aca8f5daf
 (YOU GET THE MODEL FROM ABOVE LINK)
 
-Install dependencies:
+## Install dependencies:
 pip install streamlit langchain ctransformers
-▶️ Running the App
-  ```bash
+
+## ▶️ Running the App :
 streamlit run blog_generator.py
 ⚠️ Notes
 Ensure the LLaMA model file is placed correctly in the models/ directory.
 
 
-RESULTS :
+## RESULTS :
 ![Screenshot 2025-05-17 144449](https://github.com/user-attachments/assets/14b3221f-6748-4183-b7c4-f876a67d500f)
 
 
